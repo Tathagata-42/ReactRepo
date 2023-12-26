@@ -32,4 +32,4 @@ This document summarizes the TypeScript code integrating GraphQL with Apollo Ser
 
 ## Conclusion
 
-This code sets up a basic GraphQL server using Apollo Server in TypeScript. It defines a simple GraphQL schema with a `Book` type and a `Query` type for retrieving an array of books. The server is configured to listen on port 4000, and upon starting, it logs the URL where it can be accessed. This setup is ideal for learning the basics of GraphQL and Apollo Server integration.
+This code sets up a basic GraphQL server using Apollo Server in TypeScript. It defines a simple GraphQL schema with a `Book` type and a `Query` type for retrieving an array of books. The server is configured to listen on port 4000, and upon starting, it logs the URL where it can be accessed. This setup is ideal for learning the basics of GraphQL and Apollo Server integration
